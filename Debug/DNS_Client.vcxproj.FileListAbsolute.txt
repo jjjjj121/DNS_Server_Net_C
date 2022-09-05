@@ -1,1 +1,2 @@
 C:\JAEM\0627 TCP_UDP\DNS_Client\Debug\DNS_Client.exe
+C:\JAEM\0627_DNS\DNS_Client\Debug\DNS_Client.exe
